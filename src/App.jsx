@@ -1,6 +1,5 @@
 import React, {useEffect, useRef, useState} from 'react'
 import Navbar from './components/Navbar'
-import Banner from './components/banner'
 import Hero from './components/Hero'
 import Trustedfly from './components/Trustedfly'
 import Services from './components/Services'
@@ -9,6 +8,7 @@ import Teams from './components/Teams'
 import ContactUs from './components/ContactUs'
 import {Toaster} from 'react-hot-toast'
 import Footer from './components/Footer'
+
 
 const App = () => {
 
