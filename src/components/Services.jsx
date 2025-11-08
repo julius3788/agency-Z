@@ -38,7 +38,7 @@ const Services = () => {
         
         <img src={assets.bgImage2} alt="" className='absolute -top-110 -left-70 -z-1 dark:hidden' />
 
-        <Title title='How can we help ?' desc='From strategy to execution, we craft digital solutions that move your business fowards.'/>  
+        <Title title='How can we help ?' desc='From strategy to execution, we craft digital solutions that move your business forwards.'/>  
 
         <div className='flex flex-col md:grid grid-cols-2'>
             {servicesData.map((service, index)=>(
